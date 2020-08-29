@@ -1,8 +1,31 @@
-Thank you for using our template!
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+TITLE: 
+App - Free HTML5 App Template Built with Bootstrap 4
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+AUTHOR:
+DESIGNED & DEVELOPED by FreeHTML5.co
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+Website: http://freehtml5.co/
+Twitter: http://twitter.com/fh5co
+Facebook: http://facebook.com/fh5co
+
+
+CREDITS:
+
+Bootstrap
+http://getbootstrap.com/
+
+jQuery
+http://jquery.com/
+
+Google Fonts
+https://www.google.com/fonts/
+
+Font Awesome
+http://fontawesome.io
+
+animate.css
+http://daneden.me/animate
+
+Owl Carousel
+http://www.owlcarousel.owlgraphic.com/
