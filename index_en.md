@@ -27,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](./wechatQR.jpeg)
+[Link](./index_en) and ![Image](./wechatQR.jpeg)
 For more details see GitHub Flavored Markdown.
 
 Jekyll Themes
