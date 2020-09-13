@@ -18,6 +18,11 @@
     请使用时谨慎保存本APP创建的区块链账号，其使用方式与比特币的属性一致，安全性与比特币也一样。
 
 ## BPassword使用方式
+
+## 客服微信
+
+ ![Image](./wechatQR.jpeg)
+ 
 ## 下载链接
 - [IOS APP Store](https://apps.apple.com/cn/app/bpassword/id1504992275)        
 - [IOS TestFlight](https://testflight.apple.com/join/3oUgzTxD)
