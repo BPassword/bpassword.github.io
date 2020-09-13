@@ -36,3 +36,10 @@
 - [Android 使用帮助](./android_help)
 - [插件 使用帮助](./plug_help)
 
+
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
+
