@@ -17,20 +17,18 @@
     请使用时谨慎保存本APP创建的区块链账号，其使用方式与比特币的属性一致，安全性与比特币也一样。
 
 ## BPassword使用方式
-- ### 创建或者导入账号
-    ![Image](./1_1.png)
-    
-            成功下载app之后，需要首先创建账号，创建账号之前需要首先创建账号，该账号无需属于用户名，这是一个完全
-        无服务器的管理的账号，该账号的密码没有保存到任何服务器上，也不保存在本地。该账号其实是一个区块链地址，
-        该地址可以管理钻石（以太坊*10000倍）和BT积分，是完全的去中心化的账号体系。为了验证该账号的区块链特性，
-        可以将网络关闭或者调整到飞行模式进行创建，毫不影响该账号的创建过程和使用。创建之前用户需要首先同意用户
-        使用协议和隐私协议，点击左下角的开关，以表示您同意该产品的相关约束。
-            如果您之前有过BPassword的账号，可以通过导入账号的方式将其它平台(目前支持安卓，IOS，浏览器插件)的账号
-        导入到当前的app内，如果其它平台使用的账号已经是会员，那么导入本app之后依然是会员。如果其它平台的数据您提交过
-        区块链，那么本app也将从区块链的任意节点获取账号下的所有数据，这些数据都是通过账号的私钥进行加密的，因此请
-        在保存好账号二维码的前提下，记录好本app的账号，只有本账号的所有者才能解开存放在区块链(或者本地)的账号密码信息
-        本app的宗旨就是通过记住一个密码的方式，管理好所有其他账号的密码，但是我们不支持本app密码的找回功能。
+## 下载链接
+- [IOS APP Store](https://apps.apple.com/cn/app/bpassword/id1504992275)        
+- [IOS TestFlight](https://testflight.apple.com/join/3oUgzTxD)
+- [Android Google Play]()
+- [Android 官方](http://d.7short.com/n5b7)
+- [Chrome浏览器 插件]()
+- [火狐浏览器 插件]()
 
+## 使用帮助
+- [IOS 使用帮助](./ios_help)
+- [Android 使用帮助](./android_help)
+- [插件 使用帮助](./plug_help)
 
 # Welcome to GitHub Pages
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
