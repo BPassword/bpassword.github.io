@@ -25,7 +25,7 @@
 ## 下载链接
 - [IOS APP Store](https://apps.apple.com/app/id1504992275)        
 - [IOS TestFlight](https://testflight.apple.com/join/3oUgzTxD)
-- [Android Google Play]()
+- [Android Google Play](https://play.google.com/store/apps/details?id=com.nbs.bpassword)
 - [Android 官方](http://d.7short.com/n5b7)
 - [Chrome浏览器 插件]()
 - [火狐浏览器 插件]()
