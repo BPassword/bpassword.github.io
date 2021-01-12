@@ -34,7 +34,7 @@
 - [Chrome浏览器插件使用帮助](./BPassword_plug_help.pdf)
 - [IOS 使用帮助](./ios_help)
 - [Android 使用帮助](./android_help)
-- [Firefox插件 使用帮助](./plug_help)
+- [浏览器插件使用帮助](./plug_help)
 
 
 
