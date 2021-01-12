@@ -31,10 +31,10 @@
 - [火狐浏览器 插件市场](https://addons.mozilla.org/zh-CN/firefox/addon/bpassword/)
 
 ## 使用帮助
-- [Chrome浏览器插件使用帮助](./BPassword_plug_help.pdf)
 - [IOS 使用帮助](./ios_help)
 - [Android 使用帮助](./android_help)
 - [浏览器插件使用帮助](./plug_help)
+- [Chrome插件本地安装帮助](./BPassword_plug_help.pdf)
 
 
 
