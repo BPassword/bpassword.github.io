@@ -27,14 +27,14 @@
 - [IOS TestFlight](https://testflight.apple.com/join/3oUgzTxD)
 - [Android Google Play](https://play.google.com/store/apps/details?id=com.nbs.bpassword)
 - [Android 官方](http://d.7short.com/n5b7)
-- [Chrome浏览器 插件](./bpassword.zip)
-- [火狐浏览器 插件]()
+- [Chrome浏览器 插件市场](https://chrome.google.com/webstore/detail/bpassword/bacldcokcfmemiljlckpeokehiloamcj) [本地安装文件]()
+- [火狐浏览器 插件市场](https://addons.mozilla.org/zh-CN/firefox/addon/bpassword/)
 
 ## 使用帮助
 - [Chrome浏览器插件使用帮助](./BPassword_plug_help.pdf)
 - [IOS 使用帮助](./ios_help)
 - [Android 使用帮助](./android_help)
-- [插件 使用帮助](./plug_help)
+- [Firefox插件 使用帮助](./plug_help)
 
 
 
