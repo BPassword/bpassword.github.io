@@ -1,5 +1,7 @@
 [返回](./index)
 
+> BPassword 插件除了可以管理在ios或安卓APP存储的账号条目信息外,还增加了WEB网站的账号条目信息管理功能,同时可以自动回填网站登录框.
+
 ## 插件安装
 
 > chrome 网上应用店下载,点[此链接](https://chrome.google.com/webstore/detail/bpassword/bacldcokcfmemiljlckpeokehiloamcj)
@@ -12,9 +14,9 @@
 
 ![Image](help_plug/plug_01.png)
 
-+ 创建/导入账号
+### 创建/导入账号
 
-![Image](help_plug/plug_create.png)
+![Image](help_plug/plug_create.png) ![Image](help_plug/plug_import.png)
 
 
     成功安装插件之后，需要首先创建账号，创建账号之前需要首先创建账号，该账号无需属于用户名。这是一个完全无服务号其实是一个区块链地址，该地址可以管理钻石（以太坊*10000倍）和BT积分，是完全的去中心化的账号体系。为了验证该账号的区块链特性，可以将网络关闭进行创建，毫不影响该账号的创建过程和使用。
