@@ -84,10 +84,23 @@
 
 ### 查看账号下钻石和BT余额
 
-![Image](help_plug/user_guide_06.png)
+![Image](help_plug/plug_wallet_index.png)
 
 
-### 同步本地数据到区块链
+### 会员充值
+
+![Image](help_plug/plug_recharge_01.png) ![Image](help_plug/plug_recharge_regist.png)
+
+
+### 同步数据
+
+![Image](help_plug/plug_pull_data.png) ![Image](help_plug/plug_push_data.png)
+
+    同步本地数据到区块链上需要消耗一定量的钻石费用.钻石费用可以在一定区间调节,注意过低的钻石费用可能会导致
+提交失败.
+
+![Image](help_plug/plug_push_data_01.png) ![Image](help_plug/plug_push_data_03.png)
+
 
 
 ![Image](help_plug/user_guide_06.png)
