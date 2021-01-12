@@ -103,8 +103,6 @@
 
 
 
-![Image](help_plug/user_guide_06.png)
-
 ### 导出 BPassword 主账号信息
 
     - 调出 BPassword 插件(点浏览器右上角 BPassword 图标)
