@@ -22,12 +22,12 @@
 [![BPassword](https://res.cloudinary.com/marcomontalbano/image/upload/v1632372310/video_to_markdown/images/youtube--RxMLdc3AEt4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=RxMLdc3AEt4 "BPassword")
  
 ## 下载链接
-- [IOS APP Store](https://apps.apple.com/app/id1504992275)        
+- [IOS APP Store](https://apps.apple.com/cn/app/%E5%AF%86%E7%A0%81%E5%AE%9Dpro/id1504992275)        
 - [IOS TestFlight](https://testflight.apple.com/join/3oUgzTxD)
 - [Android Google Play](https://play.google.com/store/apps/details?id=com.nbs.bpassword)
 - [Android 官方](https://tsfr.io/join/w2835a)
 - [Chrome浏览器官方市场](https://chrome.google.com/webstore/detail/bpassword/bacldcokcfmemiljlckpeokehiloamcj) 
-- [Chrome本地安装文件](https://github.com/BPassword/bpassword.github.io/releases/download/plugin-latest/BPassword_2.1.7.crx)
+- [Chrome本地安装文件](https://github.com/BPassword/bpassword.github.io/releases/download/plugin-v2/BPassword_2.1.12.crx)
 - [火狐浏览器官方市场](https://addons.mozilla.org/zh-CN/firefox/addon/bpassword/)
 
 ## 使用帮助
