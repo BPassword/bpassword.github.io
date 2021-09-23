@@ -23,7 +23,6 @@
  
 ## 下载链接
 - [IOS APP Store](https://apps.apple.com/cn/app/%E5%AF%86%E7%A0%81%E5%AE%9Dpro/id1504992275)        
-- [IOS TestFlight](https://testflight.apple.com/join/3oUgzTxD)
 - [Android Google Play](https://play.google.com/store/apps/details?id=com.nbs.bpassword)
 - [Android 官方](https://tsfr.io/join/w2835a)
 - [Chrome浏览器官方市场](https://chrome.google.com/webstore/detail/bpassword/bacldcokcfmemiljlckpeokehiloamcj) 
